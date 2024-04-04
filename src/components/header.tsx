@@ -10,6 +10,7 @@ export function Header() {
             <nav className='flex gap-5 items-center'>
                 <NavLink href="/eventos">Eventos</NavLink>
                 <NavLink href="/participantes">Participantes</NavLink>
+                <NavLink href="/equipw">Equipe</NavLink>
             </nav>
         </div>
     )
